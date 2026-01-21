@@ -2,7 +2,7 @@
 
 # AI Companion
 
-Welcome to the official repository for [**AI Companion**](https://github.com/caddison/AICompanion) — a revolutionary portable AI assistant integrating computer vision, multilingual AI models, and voice control, to solve real world problems across security, education, health, and automation.
+Welcome to the official repository for **AI Companion** — a revolutionary portable AI assistant integrating computer vision, multilingual AI models, and voice control, to solve real world problems across security, education, health, and automation.
 
 ---
 
